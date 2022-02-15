@@ -1,0 +1,14 @@
+#progressbar {
+    border-radius: 8px;
+    width: 150px;
+    height: 25px;
+    background: grey;
+}
+
+#progress {
+    border-radius: 8px;
+    width: 150px;
+    height: 25px;
+    background: skyblue;
+    transform: scaleX(0);
+}
